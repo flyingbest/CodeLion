@@ -27,5 +27,5 @@
 
 Attribution
 -----
-Source by [codelion.net](http://codelion.net/) is licensed under [(CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+This documents(source) by [codelion.net](http://codelion.net/) is licensed under [(CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
