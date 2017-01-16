@@ -23,6 +23,6 @@
 ### [4] Routing
 컨트롤러가 클라이언트의 요청을 받아들일 때, 사실 중간에 **Routing** 이라는 과정이 먼저 개입된다. 클라이언트는 서버 측으로 요청을 보낼 때 URL 형태로 보내는데, 서버에서 해당 URL과 관련된 컨트롤러의 메서드로 매칭하는 작업을 'route를 지정한다'고 하며, 'routing'이라는 단어로도 표현한다. 레이스에서는 라우트 규칙이 어떤 특정한 루비 파일 하나에서 모두 정의되는데, 이후에 직접 실습하면서 확인하게 될 것이다.
 
-![routing image](https://goo.gl/images/RnJJiA)
+![routing image](http://codelion.net/weeks/headline/46)
 
 
