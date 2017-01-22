@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+}
+
+div {
+  width: 100px;
+  height: 75px;
+  float: left;
+  border: 3px solid yellow;
+  background-color: orange;
+}
+
+#center_div {
+  border: 3px solid navy;
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-right: 5px;
+	margin-bottom: 7px;
+}
+
+#content {
+  background-color: gray;
+}

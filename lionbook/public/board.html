@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">	
+		<title> 코드라이언 :: Board </title>
+	</head>
+	<body>
+		<!-- 바디 부분 -->
+		<h1>Lion Board</h1>
+		<h2>lion name list</h2>
+
+		<table border="3">
+			<thead>
+				<tr>
+					<th>name</th>
+					<th>gender</th>
+					<th>weight</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Charles</td>
+					<td>male</td>
+					<td>50</td>
+				</tr>
+				<tr>
+					<td>John</td>
+					<td>male</td>
+					<td>60</td>
+				</tr>
+				<tr>
+					<td>Jessica</td>
+					<td>female</td>
+					<td>40</td>
+				</tr>
+			</tbody>
+		</table>
+		
+		<br><br>
+		<h2> lion register </h2>
+		<form action="http://codelion.net" method="POST">
+			name : <input type="text" name="lion_name"><br>
+			gender :
+				<select name="gender">
+					<option value="male">male</option>
+					<option value="female">female</option>
+				</select><br>
+			Charac : <textarea name="character"></textarea>
+			<input type="submit" value="register">
+		</form>
+
+	</body>
+<html>

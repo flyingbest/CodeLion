@@ -1,0 +1,36 @@
+.wrapper {
+  border: 2px solid orange;
+  height: 180px;
+  position: relative;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+}
+
+#static {
+  background-color: yellow;
+  position: static;
+}
+
+#relative {
+  background-color: gray;
+  position: relative;
+  top: 10px;
+  left: 50px;
+}
+
+#absolute {
+  background-color: blue;
+  position: absolute;
+  right: 25px;
+  bottom: 30px;
+}
+
+#fixed {
+  background-color: red;
+  position: fixed;
+  top: 15px;
+  right: 40px;
+}
